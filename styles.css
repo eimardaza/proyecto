@@ -1,0 +1,26 @@
+body {
+    background: rgb(224, 120, 120);
+    font-family: cursive; 
+    font-size: 25px;
+
+}
+
+.container {
+    width: 80%;
+    margin: 180px auto;
+    text-align: center;
+}
+
+button {
+    padding: 10px 20px;
+    border-color: black;
+    border-style: double;
+    border-radius: 300px;
+    background-color: #eca0a0;
+    color: black;
+    cursor: pointer ;
+}
+
+button:hover {
+    background-color: #2dbaf1;
+}
